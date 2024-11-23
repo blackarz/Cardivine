@@ -5,4 +5,7 @@
     <color name="text_primary">#FFFFFF</color>
     <color name="text_secondary">#B3FFFFFF</color>
     <color name="white">@color/text_primary</color>
+
+    <color name="button_background">#2196F3</color>
+    <color name="ripple_color">#FFFFFF</color>
 </resources>

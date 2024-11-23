@@ -12,16 +12,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Cardivine"
         tools:targetApi="31">
-        <activity
-            android:name=".QuestionActivity"
-            android:exported="false" />
-        <activity
-            android:name=".CardCategoryActivity"
-            android:exported="false"
-            android:theme="@style/Theme.Cardivine" />
-        <activity
-            android:name=".CardDetailsActivity"
-            android:exported="false" />
+
+        <activity android:name=".QuestionsActivity" android:exported="false"/>
         <activity
             android:name=".MainActivity"
             android:exported="true">
